@@ -1,0 +1,1 @@
+export const enterpriseFeatures = ['persistent routing','director dashboard','follow-up automation','invite analytics','calendar workspace','gmail draft preview','qr attendance sync','luxor export','relationship scoring','referral attribution','seat mapping','segmentation','mobile navigation','theme controls'];
